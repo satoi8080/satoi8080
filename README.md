@@ -1,4 +1,4 @@
-Work account: https://github.com/zzhez
+💼 Work account: https://github.com/zzhez
 
 
 👀 I’m interested in data science
