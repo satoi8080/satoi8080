@@ -4,4 +4,4 @@
 👀 I’m interested in data science
 
 
-🌱 I’m currently learning React.js
+🌱 I’m currently learning Next.js
