@@ -1,7 +1,7 @@
-💼 Work account: https://github.com/zzhez
+## About Me
 
+💼 **Work:** [@zzhez](https://github.com/zzhez)  
+🐟 **Freelance:** One-man operation at [@FishTouchDev](https://github.com/FishTouchDev)
 
-👀 I’m interested in data science
-
-
-🌱 I’m currently learning Next.js
+**Interests:** Data Science • Fintech • Vibe Coding  
+**UI Gadgets:** [FishTouch UI Components](https://storybook.ui.fishtouch.dev/)
